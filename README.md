@@ -1,4 +1,4 @@
-- "Olá!" - as I'd say in Brazil - I’m @alephcbarbalho 👨‍🦲
+- "Olá!" - as I'd say in portuguese - I’m @alephcbarbalho 👨‍🦲
 - I'm discovering the coding world through learning Python 🐍
 - Due to my Philosophy background, I'm really into logic 🧠
 - You can reach me via my e-mail: alephcb@gmail.com 📧
